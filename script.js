@@ -9,12 +9,12 @@ let masterSongName  = document.getElementById('masterSongName');
 let songIteam = Array.from(document.getElementsByClassName('songIteam'));
 
 let songs =[
-    {songName:"Kalastar",filePath:"songs/1.mp3",coverPath:"covers/cover.jpg"},
-    {songName:"tera fitoor",filePath:"songs/2.mp3",coverPath:"covers/img2.jpeg"},
-    {songName:"rang de basanti",filePath:"songs/3.mp3",coverPath:"covers/img1.jpeg"},
-    {songName:"tum hi ho",filePath:"songs/4.mp3",coverPath:"covers/img3.jpeg"},
-    {songName:"tere name",filePath:"songs/5.mp3",coverPath:"covers/img4.jpeg"},
-    {songName:"ranjhana",filePath:"songs/6.mp3",coverPath:"covers/img5.jpg"},
+    {songName:"Kalastar",filePath:"1.mp3",coverPath:"cover.jpg"},
+    {songName:"tera fitoor",filePath:"2.mp3",coverPath:"img2.jpeg"},
+    {songName:"rang de basanti",filePath:"3.mp3",coverPath:"img1.jpeg"},
+    {songName:"tum hi ho,"filePath:"4.mp3,"coverPath:"img3.jpeg"},
+    {songName:"tere name",filePath:"5.mp3",coverPath:"img4.jpeg"},
+    {songName:"ranjhana",filePath:"6.mp3",coverPath:"img5.jpg"},
 ]
 
 // autoElement.play
